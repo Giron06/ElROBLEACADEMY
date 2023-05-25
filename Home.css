@@ -1,0 +1,9 @@
+body {
+  background-color: #ffdd90;
+  background-image: url("fondo\ home.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  padding: 10px;
+
+}

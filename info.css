@@ -1,0 +1,20 @@
+
+body {
+    background-color: aqua;
+    background-image: url(https://scontent.ftgu3-3.fna.fbcdn.net/v/t1.6435-9/46142147_2315864041819255_2059098937649790976_n.png?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=dMdh7B4Q5vcAX_FNGym&_nc_ht=scontent.ftgu3-3.fna&oh=00_AfAs7ybY1Y3mPyZLx33qUILZvYftKvuMzwpNmh_thfFlHg&oe=6494AECB);
+    background-repeat: no-repeat;
+
+
+
+}
+
+table {
+    width:1000px;
+    font:normal 15px Arial;
+    text-align:center;
+    border-collapse:collapse;
+}
+table th {
+    font:bold 15px Arial;
+    background-color:lightblue;
+}
